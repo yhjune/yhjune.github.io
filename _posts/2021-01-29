@@ -1,0 +1,13 @@
+---
+layout: post
+title: "2일차"
+description: "공부해야하는 것이 많아..."
+categories: [uncategorized]
+tags: [random, jekyll]
+redirect_from:
+  - /2021/01/29/
+---
+
+아직도 왜 안되는지 이유를 찾지 못했다. bundler? install ruby 루비는 들어봤는데ㅋㅋㅋㅋ
+어떻게 검색을 해야할지 감이 아직 안오는 것 같다.
+일단 올릴 파일들은 문서화를 해 놓고 블로그는 익숙해지면 전부 올려버려야지..
